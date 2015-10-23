@@ -1,10 +1,7 @@
 ---
-published: true
+layout: post
+title: FMI Crypto Seminar
 ---
-
-
-
-## FMI Crypto Seminar
 
 Recently I've attended the first meeting of what I hope will turn into the first fully fledged cryptography seminar in Romania.
 
