@@ -3,11 +3,14 @@ published: true
 ---
 
 
+
 ## FMI Crypto Seminar
 
 Recently I've attended the first meeting of what I hope will turn into the first fully fledged cryptography seminar in Romania.
 
 Before moving on, I'd like to take the time to mention the event organizer, [FMI](http://fmi.unibuc.ro/) Crypto Group, and give them a big and well-deserved thank you for their initiative.
+
+<!-- more -->
 
 Now that I've set the scene, I will first talk about this first meeting and and how it went.
 
