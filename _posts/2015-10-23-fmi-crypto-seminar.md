@@ -1,7 +1,9 @@
 ---
 layout: post
 title: FMI Crypto Seminar
+published: true
 ---
+
 
 Recently I've attended the first meeting of what I hope will turn into the first fully fledged cryptography seminar in Romania.
 
@@ -23,9 +25,9 @@ I also think it's important to mention the audience amounted to roughly fifteen 
 
 Before going ahead and relating my perception of how the lecture went, I'd first like to pause for a moment and note that my sole reason in writing this lies in trying to offer [constructive criticism](https://en.wikipedia.org/wiki/Constructive_criticism) for the purpose of increasing the overall experience for all parties involved.
  
-Going back to the lecture, if I were to choose a single word to describe it, I would say it was succint. I would have preferred a more rigorous approach (i.e. more maths - even introductory notions - when needed, more proofs - al least sketchy). Also, more references and links for the provided ones would be useful during the presentation, as well as when checking out the slides later. Pointers for further study would also be nice.
+Going back to the lecture, if I were to choose a single word to describe it, I would say it was succinct. I would have preferred a more rigorous approach (i.e. more maths - even introductory notions - when needed, more proofs - at least sketchy). Also, more references and links for the provided ones would be useful during the presentation, as well as when checking out the slides later. Pointers for further study would also be nice.
 
-So now that I've pointed out the lecture's shortcomings, it's time for me to try and fix it. I will thus try to provide a list of resources for people interested in studying lattices and their usage in cryptography. Even though I have gathered these over time, I haven't studied them thouroughly so, as allways, you should take this list with a grain of salt and decide for yourself what works and what doesn't. Also please ignore the order in which they're presented.  
+So now that I've pointed out the lecture's shortcomings, it's time for me to try and fix it. I will thus try to provide a list of resources for people interested in studying lattices and their usage in cryptography. Even though I have gathered these over time, I haven't studied them thoroughly so, as always, you should take this list with a grain of salt and decide for yourself what works and what doesn't. Also please ignore the order in which they're presented.  
 
 ### Lattices in Cryptography, Study Resources
 
