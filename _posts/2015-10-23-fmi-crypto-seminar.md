@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 Recently I've attended the first meeting of what I hope will turn into the first fully fledged cryptography seminar in Romania.
 
 Before moving on, I'd like to take the time to mention the event organizer, [FMI](http://fmi.unibuc.ro/) Crypto Group, and give them a big and well-deserved thank you for their initiative.
@@ -52,6 +53,6 @@ What I hope for is more lectures and why not, larger audiences.
 
 *_Notes_  
 
-During the lecture it was mentioned the fact that there are no cryptosystems which rely on the difficulty of the CVP (closest vector problem). I later found out this is not technically correct, as the [Goldreich–Goldwasser–Halevi (GGH) lattice-based cryptosystem](https://en.wikipedia.org/wiki/GGH_encryption_scheme) is an example of such a cryptosystem. I agree, the scheme is not secure considering the fact that Nguyen showed as early as 1999 that there is a flaw in the design of the scheme.
+During the lecture it was mentioned the fact that there are no cryptosystems which rely on the difficulty of the CVP (closest vector problem). I later found out this is not technically correct, as the [Goldreich–Goldwasser–Halevi (GGH) lattice-based cryptosystem](https://en.wikipedia.org/wiki/GGH_encryption_scheme) is an example of such a cryptosystem. I agree, the scheme is not secure considering the fact that Nguyen showed as early as 1999 (you can read the paper [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.1285&rep=rep1&type=pdf)) that there is a flaw in the design of the scheme.
 
 Also, during the lecture, I asked whether there are situations where the lattice dimension has an effect on the security of the schemes we wish to build. The consensus seemed to be no but I suspect this might not always be the case. As [this](https://eprint.iacr.org/2013/630.pdf) paper seems to suggest, lattice dimension in lattice-based schemes underlying Fully Homomorphic Encryption needs to be very large.
